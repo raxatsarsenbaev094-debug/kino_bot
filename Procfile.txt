@@ -1,1 +1,1 @@
-﻿worker: python kino_bot.py
+python kino_bot.py
